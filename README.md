@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roony-6&label=Profile%20views&color=0e75b6&style=flat" alt="Roony-6" /> </p>
 <!--
 **Roony-6/Roony-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
