@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello! 👋 I'm Roony
+
+I'm a prospective Data Science student passionate about programming and AI, eager to learn and grow.
+
 
 <!--
 **Roony-6/Roony-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
