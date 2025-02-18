@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Roony
 
-I'm a prospective Data Science student passionate about programming and AI, eager to learn and grow.
+I'm a Data Science student passionate about programming and AI, eager to learn and grow.
 
 
 <!--
