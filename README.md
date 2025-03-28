@@ -3,6 +3,7 @@
 I'm a Data Science student passionate about programming and AI, eager to learn and grow.
 
 
+![Profile views](https://gpvc.arturio.dev/Roony-6)
 <!--
 **Roony-6/Roony-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
